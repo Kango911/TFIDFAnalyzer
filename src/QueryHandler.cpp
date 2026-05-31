@@ -3,6 +3,7 @@
 #include <algorithm>
 #include <sstream>
 #include <iomanip>
+#include <numeric>  // ← ЭТО СТРОКА НУЖНА ДЛЯ std::accumulate
 
 QueryHandler::QueryHandler(const TFIDFCalculator& calc) : calculator(calc) {}
 

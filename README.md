@@ -90,7 +90,7 @@ Results:
 
 ## Структура проекта
 
-```
+```bash
 TFIDFAnalyzer/
 ├── CMakeLists.txt              # Конфигурация сборки
 ├── documents.txt               # Список файлов документов
