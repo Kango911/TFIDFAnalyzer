@@ -423,7 +423,7 @@ Goodbye!
 
 ---
 
-## 👨‍💻 Автор
+## 👨‍💻 Автор - Поликарпова Дарья
 
 Лабораторная работа №4  
 *Highload Systems Engineering*  
@@ -434,4 +434,3 @@ Goodbye!
 **Happy Coding!** 🚀
 
 </div>
-```
